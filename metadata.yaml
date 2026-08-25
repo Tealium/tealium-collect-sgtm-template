@@ -15,5 +15,5 @@
 homepage: "https://tealium.com"
 documentation: "https://docs.tealium.com/platforms/google-tag-manager/"
 versions:
-  - sha: 
+  - sha: 7a78fc6f3b351e334214fa7c329d9db9b45641ee
     changeNotes: Initial Version
