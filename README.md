@@ -178,10 +178,6 @@ For production use, Preview and Debug only is recommended unless active troubles
 * `LICENSE` — repository license
 * `metadata.yaml` — Community Template Gallery metadata
 
-## Community Template Gallery
-
-If this template is published to the Google Tag Manager Community Template Gallery, update `metadata.yaml` with the correct repository URLs and release commit SHA values before submission.
-
 ## Support
 
 This repository provides the template as-is for use with Tealium Collect and GTM Server. Validate all behavior in a non-production environment before rolling out to production traffic.
